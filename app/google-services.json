@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "775529108552",
+    "firebase_url": "https://trato-225407.firebaseio.com",
+    "project_id": "trato-225407",
+    "storage_bucket": "trato-225407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775529108552:android:9307c8d79e111b86",
+        "android_client_info": {
+          "package_name": "dev.atry.trato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775529108552-4ajq18bjsv6vjqb9rnimo9cjemnlpd4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.atry.trato",
+            "certificate_hash": "5e04c8d109a172bc7588d99b49ae7628492dfe73"
+          }
+        },
+        {
+          "client_id": "775529108552-vqkj6nlbmvdqlnjk8inbnes3putld1es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfFA2rlQCJRS7PCjExPriusP-NlMfULKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775529108552-vqkj6nlbmvdqlnjk8inbnes3putld1es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
