@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "775529108552",
-    "firebase_url": "https://trato-225407.firebaseio.com",
-    "project_id": "trato-225407",
-    "storage_bucket": "trato-225407.appspot.com"
+    "project_number": "898303462479",
+    "firebase_url": "https://trato-9488a.firebaseio.com",
+    "project_id": "trato-9488a",
+    "storage_bucket": "trato-9488a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:775529108552:android:9307c8d79e111b86",
+        "mobilesdk_app_id": "1:898303462479:android:9307c8d79e111b86",
         "android_client_info": {
           "package_name": "dev.atry.trato"
         }
       },
       "oauth_client": [
         {
-          "client_id": "775529108552-4ajq18bjsv6vjqb9rnimo9cjemnlpd4l.apps.googleusercontent.com",
+          "client_id": "898303462479-q4s94ptdais3j3lbkfh37ginjl1l9k4n.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "dev.atry.trato",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "775529108552-vqkj6nlbmvdqlnjk8inbnes3putld1es.apps.googleusercontent.com",
+          "client_id": "898303462479-l8v0917mk6p52la0e9lpahjkodhbd4r0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBfFA2rlQCJRS7PCjExPriusP-NlMfULKg"
+          "current_key": "AIzaSyDOPc-aEIoKeXxWsosdAm0KJFTFzckSU-8"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "775529108552-vqkj6nlbmvdqlnjk8inbnes3putld1es.apps.googleusercontent.com",
+              "client_id": "898303462479-l8v0917mk6p52la0e9lpahjkodhbd4r0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
